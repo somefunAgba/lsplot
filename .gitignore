@@ -1,3 +1,4 @@
 # List of untracked files to ignore
 bin
 main/mlx2md.m
+mlx2md.m
