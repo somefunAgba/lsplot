@@ -121,14 +121,18 @@ Also during runs, ensure no other resource is using Arduino's serial port such a
 Open an **Issue** on Github.
 
 # How to download and install
-## Recommended Approaches 
+## Recommended Approach(es) 
 
-Execute in MATLAB:
+Clone this GitHub repository and open it in MATLAB.
 
 ```matlab:Code
-system("git clone https://github.com/somefunagba/lsplot && cd lsplot");
-install
+% Execute in MATLAB:
+system("git clone https://github.com/somefunagba/lsplot");
+cd lsplot  
+install;
 ```
 
-   -  Clone this GitHub repository and open it in MATLAB. 
-   -  Download **LSP.mltbx **from FileExchange link or use the **Add-Ons Explorer** in MATLAB to find and install **LSP**.
+## Other(s)
+
+   -  Download **LSP.mltbx **from Matlab's **FileExchange**  
+   -  Use the **Add-Ons Explorer** in MATLAB to find and install **LSP**.
