@@ -49,7 +49,7 @@ This package does **real time logging and visualization** of Arduino signals in 
 
 **Q1. What format should I use to log my Serial Output from Arduino to Matlab?**
 
-**A1. **
+**A1.**
 
 In the ***`.[ino, c, cpp]`** source file that you will upload to the Arduino Board, 
 
@@ -133,6 +133,3 @@ system("git clone https://github.com/somefunagba/lsplot && cd './lsplot/main' &&
 
    -  Download **LSP.mltbx** from the [latest release](https://github.com/roslovets/livescript2markdown/releases/latest) on GitHub and open it in MATLAB. 
    -  Download **LSP.mltbx **from FileExchange link or use the **Add-Ons Explorer** in MATLAB to find and install **LSP**.
-
-***
-*Generated from README.mlx with [Live Script to Markdown Converter](https://github.com/roslovets/Live-Script-to-Markdown-Converter)*
