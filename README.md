@@ -134,5 +134,5 @@ install;
 
 ## Other(s)
 
-   -  Download **LSP.mltbx **from Matlab's **FileExchange**  
-   -  Use the **Add-Ons Explorer** in MATLAB to find and install **LSP**.
+   -  Download **`LSP.mltbx`** from Matlab's **FileExchange**  
+   -  Use the **Add-Ons Explorer** in MATLAB to find and install **`LSP`**.
