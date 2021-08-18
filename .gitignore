@@ -1,6 +1,8 @@
 # List of untracked files to ignore
 bin
+bin/*
 main/mlx2md.m
 mlx2md.m
 *.prj
 resources
+resources/*
