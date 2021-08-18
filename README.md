@@ -121,15 +121,14 @@ Also during runs, ensure no other resource is using Arduino's serial port such a
 Open an **Issue** on Github.
 
 # How to download and install
-## Recommended
+## Recommended Approaches 
 
 Execute in MATLAB:
 
 ```matlab:Code
-system("git clone https://github.com/somefunagba/lsplot && cd './lsplot/main' && install.m");
+system("git clone https://github.com/somefunagba/lsplot && cd lsplot");
+install
 ```
 
-## Other Approaches 
-
-   -  Download **LSP.mltbx** from the [latest release](https://github.com/roslovets/livescript2markdown/releases/latest) on GitHub and open it in MATLAB. 
+   -  Clone this GitHub repository and open it in MATLAB. 
    -  Download **LSP.mltbx **from FileExchange link or use the **Add-Ons Explorer** in MATLAB to find and install **LSP**.
